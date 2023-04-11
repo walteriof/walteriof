@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, me llamo Walter Damián Frenguelli</h1>
-<h3 align="center">Soy técnico de GIS y estudiante de programación UTN FRVM</h3>
+<h3 align="center">Soy técnico de GIS :world_map: y estudiante de programación UTN FRVM :computer: </h3>
 
-- Lic. en Desarrollo Local y Regional
+- :mortar_board: Lic. en Desarrollo Local y Regional
 
-- 🔭 Actualmente trabajo para **Equipo de Infraestructura de Datos Espaciales, Municipalidad de Villa María**
+- :man_technologist: Actualmente trabajo para **Equipo de Infraestructura de Datos Espaciales, Municipalidad de Villa María**
 
-- 🌱 Estoy aprendiendo **Python, JS, PostgreSQL**
+- :books: Estoy aprendiendo **Python, JS, PostgreSQL**
 
 - 💬 Pregúntame acerca de **html, css, Qgis, Python, Javascript, mysql**
 
