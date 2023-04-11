@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Walter Damián Frenguelli</h1>
-<h3 align="center">Técnico de GIS, estudiante de programación UTN FRVM</h3>
+<h3 align="center">Soy técnico de GIS y estudiante de programación UTN FRVM</h3>
 
 - Lic. en Desarrollo Local y Regional
 
