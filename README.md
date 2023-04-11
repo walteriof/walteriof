@@ -3,11 +3,11 @@
 
 - 🔭 Actualmente trabajo para **Equipo de Infraestructura de Datos Espaciales, Municipalidad de Villa María**
 
-- 🌱 I’m currently learning **Python, JS, PostgreSQL**
+- 🌱 Estoy aprendiendo **Python, JS, PostgreSQL**
 
-- 💬 Ask me about **html, css, Qgis, Python, Javascript, mysql**
+- 💬 Pregúntame acerca de **html, css, Qgis, Python, Javascript, mysql**
 
-- 📫 How to reach me **frenguelli@gmail.com**
+- 📫 Puedes contactarme **frenguelli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
