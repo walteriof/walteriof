@@ -5,9 +5,9 @@
 
 - :man_technologist: Actualmente trabajo para **Equipo de Infraestructura de Datos Espaciales, Municipalidad de Villa María**
 
-- :books: Estoy aprendiendo **Python, JS, PostgreSQL**
+- :books: Estoy aprendiendo **Python, JS**
 
-- 💬 Pregúntame acerca de **html, css, Qgis, Python, Javascript, mysql**
+- 💬 Pregúntame acerca de **html, css, Qgis, Python, R, Javascript,PostgreSQL, mysql**
 
 - 📫 Puedes contactarme **frenguelli@gmail.com**
 
